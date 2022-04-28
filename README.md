@@ -15,7 +15,7 @@ Vary
 - read & modify data
 
 ## Redemption
-- input validation
+- server input validation
 - output encoding
 - Browser built-in XSS preveiton
 
