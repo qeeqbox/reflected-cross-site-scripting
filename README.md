@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/session-fixation/main/session-fixation.png"></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/reflected-cross-site-scripting/main/reflected-cross-site-scripting.png"></p>
 
 An adversary may inject malicious content into HTTP requests. The content will be reflected in the HTTP response and executed in the victim's browser.
 
