@@ -12,7 +12,7 @@ An adversary may inject malicious content into HTTP requests. The content will b
 Vary
 
 ## Risk
-- gain unauthorized access
+- read & modify data
 
 ## Redemption
 - input validation
