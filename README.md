@@ -17,9 +17,9 @@ Open the network tab from the developer tools to examine the requests and respon
 If you type the URL + test, it will take you to the test resourse (page), it does not exist but the test keyword gets embedded in the page
 <p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/reflected-cross-site-scripting/main/content/3.png"></p>
 A threat actor could embed a malicious payload and send it to a victim using social engineering attacks. If the victim falls for it, their browser will send the request to the webapp
-<p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/dom-based-cross-site-scripting/main/content/4.png"></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/reflected-cross-site-scripting/main/content/4.png"></p>
 Then, the browser will execute a malicious payload
-<p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/dom-based-cross-site-scripting/main/content/5.png"></p>
+<p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/reflected-cross-site-scripting/main/content/5.png"></p>
 
 ## Code
 This logic will check if the requested page has a route or exists, if it does not, then it will pass the requested page value to the msg_page() function
