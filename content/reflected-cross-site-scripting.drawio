@@ -144,7 +144,7 @@
             <mxRectangle width="61" height="29" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2oOA3YD1MqoKiQmR5J46-7" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(255, 0, 0), rgb(255, 144, 144));&quot;&gt;&amp;lt;html&amp;gt;&amp;lt;h1&amp;gt;...payload&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;fontColor=#FF0000;" parent="2oOA3YD1MqoKiQmR5J46-5" vertex="1">
+        <mxCell id="2oOA3YD1MqoKiQmR5J46-7" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;text-align: center; background-color: transparent; color: light-dark(rgb(255, 0, 0), rgb(255, 144, 144));&quot;&gt;Welcome payload!&lt;/span&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;overflow=hidden;align=left;fontColor=#FF0000;" parent="2oOA3YD1MqoKiQmR5J46-5" vertex="1">
           <mxGeometry x="61" width="139" height="29" as="geometry">
             <mxRectangle width="139" height="29" as="alternateBounds" />
           </mxGeometry>
