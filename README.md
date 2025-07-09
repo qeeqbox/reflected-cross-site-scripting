@@ -8,7 +8,7 @@ git clone --recursive https://github.com/qeeqbox/reflected-cross-site-scripting
 ```
 Run the webapp using Python
 ```sh
-python3 default-credential/vulnerable-web-app/webapp.py
+python3 reflected-cross-site-scripting/vulnerable-web-app/webapp.py
 ```
 Open the webapp in your browser 127.0.0.1:5142
 <p align="center"> <img src="https://raw.githubusercontent.com/qeeqbox/reflected-cross-site-scripting/main/content/1.png"></p>
