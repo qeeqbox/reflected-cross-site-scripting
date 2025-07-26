@@ -4,7 +4,7 @@ An application enables users to control the Document Object Model (DOM) environm
 
 Clone this current repo recursively
 ```sh
-git clone --recursive https://github.com/qeeqbox/reflected-cross-site-scripting
+git clone --recurse-submodules https://github.com/qeeqbox/reflected-cross-site-scripting
 ```
 Run the webapp using Python
 ```sh
