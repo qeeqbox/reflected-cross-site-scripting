@@ -39,15 +39,3 @@ def msg_page(self, msg, prev=None):
             return fi.read().replace(b"{{msg-result}}",msg).replace(b"{{msg-prev}}",b"/").replace(b"{{msg-page}}",b"Home")
 ```
  
-## Impact
-Vary
-
-## Risk
-- Session Hijacking
-- Credential Theft
-
-## Redemption
-- Server input validation
-
-## ID
-cb251c97-067d-4f13-8195-4f918273f41b
